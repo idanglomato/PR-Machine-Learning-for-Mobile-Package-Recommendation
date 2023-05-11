@@ -1,5 +1,5 @@
 # Practicum Data Science Project
-## Video Game Sales Data Analysis
+## Machine Learning for Mobile Package Recommendation
 
 ### Description
 Megaline, the mobile operator, is dissatisfied because many of their customers are still using old packages. The company wants to develop a model that can analyze consumer behavior and recommend one of their two latest packages: Smart or Ultra.
